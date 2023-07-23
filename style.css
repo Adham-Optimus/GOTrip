@@ -5,8 +5,9 @@ html {
   font-family: "Rubik", sans-serif;
 }
 .container {
-  margin-left: 11.5%;
-  margin-right: 11.5%;
+  max-width: 1110px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 nav {
